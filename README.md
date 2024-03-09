@@ -26,7 +26,12 @@ PDF Merger is a Python application built using PyQt5 and PyPDF2 that allows user
 3. Click the "Merge PDFs" button to merge the selected PDF files.
 4. Choose a location to save the merged PDF file.
 5. A message will appear indicating the successful merging of the PDF files.
-
+   
+## To convert to .EXE file
+ 1. To convert into an executable file Run the following command
+ 2. pyinstaller --noconfirm --onedir --windowed  ""
+ 3. make sure you have pyinstaller installed
+ 4. install it using pip install pyinstaller
 
 ## Acknowledgments
 
